@@ -1,0 +1,182 @@
+
+.button1{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+    margin-top: 40px;
+    
+}
+
+.button2{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+}
+
+.button3{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+}
+
+.button4{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+}
+
+.button5{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+}
+
+
+
+
+
+.button6{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    
+}
+
+.button7{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 150px;
+    height: 40px;
+    font-size: 25px;
+    background-color: cadetblue;
+    color: purple;
+    margin-bottom: 30px;
+    margin-top: 40px;
+
+}
+
+
+.footer{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 530px;
+}
+
+
+.footerGallery{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 2px;
+
+}
+
+.footerMaps{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 2px;
+
+}
+
+.footerContact{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 2px;
+
+}
+
+.footerHome{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 350px;
+
+}
+
+.footerAbout{
+    color: cadetblue;
+    font-size: 40px;
+    margin-top: 30px;
+
+}
+
+
+
+
+
+.contactThing1{
+    background-color:blanchedalmond;
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color:palevioletred;
+}
+
+.hello{
+    font-size: 35px;
+    color:cyan;
+}
+
+.ifThing{
+    font-size: 25px;
+    color:antiquewhite;
+}
+
+.getThing{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:aquamarine;
+}
+
+.getThing label, .getThing input{
+    margin-bottom: 10px;
+}
+
+.getThing input{
+    flex: 1;
+    margin-right: 10px;
+}
+
+.welcomeline{
+    font-size: 76px;
+    color: darkcyan;
+}
+
+.aboutLine{
+    font-size: 46px;
+    color: darkcyan;
+}
+
+.styleTable{
+    display: flex;
+}
+
+
+.styleTable{
+    margin-right: 1000px;
+}
